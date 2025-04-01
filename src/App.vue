@@ -86,7 +86,7 @@ export default {
 
 <style>
 #app {
-  background-color: #222;
+  /* background-color: #222; */
   color: white;
   display: flex;
   flex-direction: column;
@@ -145,7 +145,7 @@ export default {
   border: none;
   cursor: pointer;
   background: transparent;
-  background: #222;
+  /* background: #222; */
   border: none;
   padding: 0;
   cursor: pointer;
