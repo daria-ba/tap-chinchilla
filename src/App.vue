@@ -25,7 +25,7 @@
 
       <div class="restart-container" v-if="gameOver">
         <div class="restart-info">
-          <p>Чуню тапнули {{ clicks }} раз!</p>
+          <p>Чуню тапнули {{ clicks }} раз(а)!</p>
         </div>
         <button @click="restartGame" class="restart-button">Заново</button>
       </div>
