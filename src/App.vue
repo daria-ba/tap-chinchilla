@@ -86,6 +86,8 @@ export default {
 
 <style>
 #app {
+  background-color: #222;
+  color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
